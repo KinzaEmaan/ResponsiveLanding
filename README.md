@@ -22,7 +22,7 @@ You can view the live demo [here](https://responsive-page-two.vercel.app/).
 
 ## Deployment
 
-This project is deployed using [Vercel](https://vercel.com/). Visit (#https://responsive-page-two.vercel.app/) to view the live deployment.
+This project is deployed using [Vercel](https://vercel.com/). Visit [here](https://responsive-page-two.vercel.app/) to view the live deployment.
 
 
 
